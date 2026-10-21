@@ -1,4 +1,4 @@
-# Exempelkod från 24/08-2026
+# Exempelkod 
 
 Här går vi igenom:
 
